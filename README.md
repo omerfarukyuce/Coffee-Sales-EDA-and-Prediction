@@ -90,3 +90,10 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) file for 
 - 🤖 Scikit-learn
 - 🚀 XGBoost
 
+## 🔍 Code And Kaggle Link
+Project: [Coffee_Sales_EDA_and_Prediction.ipynb](https://github.com/omerfarukyuce/Coffee-Sales-EDA-and-Prediction/blob/main/Coffee_Sales_EDA_and_Prediction.ipynb)
+
+Kaggle: [Coffee Sales EDA and Prediction](https://www.kaggle.com/code/merfarukyce/coffee-sales-eda-and-prediction)
+
+## 📊 Datasets
+Dataset: [Dataset](https://www.kaggle.com/datasets/ihelon/coffee-sales)
