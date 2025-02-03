@@ -15,13 +15,21 @@ were performed.
 
 ## 📦 Requirements
 python
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 lightgbm
+
 fbprophet
+
 scikit-learn
+
 xgboost
 
 
