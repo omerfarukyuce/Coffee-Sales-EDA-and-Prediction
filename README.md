@@ -1,6 +1,6 @@
 # ☕ Coffee Sales Analysis and Forecasting Project
 
-This project analyzes sales data from a coffee shop and uses various machine learning models to predict future sales.
+This repository contains a comprehensive analysis and forecasting project based on a coffee sales dataset . The project includes data preprocessing, exploratory data analysis (EDA), time series forecasting, and regression modeling to understand trends and predict future sales.
 
 ## 📊 Project Summary
 
@@ -12,6 +12,13 @@ In this project:
 - 14-day sales projections
 
 were performed.
+
+## 🔍 Project Goals
+
+- Understand sales patterns and trends of coffee products.
+- Identify key factors influencing coffee sales.
+- Forecast future sales using **Facebook Prophet**.
+- Compare regression models (LightGBM, Random Forest, XGBoost) to predict sales.
 
 ## 📦 Requirements
 python
@@ -34,6 +41,13 @@ xgboost
 
 
 ## 🎯 Features
+
+### 🧼 Data Preprocessing
+
+- Handled missing values
+- Converted date columns to datetime format
+- Aggregated sales by product, region, and time
+- Engineered new time-based features (month, quarter, etc.)
 
 ### 📈 Data Analysis
 - Hourly sales trends
